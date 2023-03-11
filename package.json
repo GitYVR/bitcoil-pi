@@ -1,0 +1,11 @@
+{
+  "name": "yvrbitcoil-pi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-gityvr:GitYVR/yvrbitcoil-pi.git",
+  "author": "Ubuntu <user@ubuntu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
+}
